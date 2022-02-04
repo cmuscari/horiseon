@@ -22,5 +22,4 @@ Screenshots:
 <img src="./assets/images/screenshot-1.jpg">
 <img src="./assets/images/screenshot-2.jpg">
 
-Link to deployed page:
-<a href="https://cmuscari.github.io/horiseon/">
+<a href="https://cmuscari.github.io/horiseon/">Link to deployed web page</a>
